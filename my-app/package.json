@@ -6,6 +6,8 @@
   },
   "dependencies": {
     "@arjitchitkara/medium-common": "^1.0.0",
+    "@arjitchitkara/medium-common1": "^1.0.0",
+    "@arjitchitkara/medium-commonv2": "^1.0.0",
     "@prisma/client": "^5.15.1",
     "@prisma/extension-accelerate": "^1.1.0",
     "hono": "^4.4.8",
